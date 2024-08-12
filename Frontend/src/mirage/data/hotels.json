@@ -1,0 +1,74 @@
+[
+  {
+    "hotelCode": 71222,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/481481762/481481762.jpg",
+        "accessibleText": "hyatt pune hotel"
+      },
+      {
+        "imageUrl": "/images/hotels/481481762/525626081.jpg",
+        "accessibleText": "hyatt pune hotel"
+      },
+      {
+        "imageUrl": "/images/hotels/481481762/525626095.jpg",
+        "accessibleText": "hyatt pune hotel"
+      },
+      {
+        "imageUrl": "/images/hotels/481481762/525626104.jpg",
+        "accessibleText": "hyatt pune hotel"
+      },
+      {
+        "imageUrl": "/images/hotels/481481762/525626212.jpg",
+        "accessibleText": "hyatt pune hotel"
+      }
+    ],
+    "title": "Hyatt Pune",
+    "subtitle": "Kalyani Nagar, Pune | 3.3 kms from city center",
+    "benefits": [
+      "Free cancellation",
+      "No prepayment needed – pay at the property"
+    ],
+    "price": "18900",
+    "ratings": "5",
+    "city": "pune",
+    "reviews": {
+      "data": [
+        {
+          "reviewerName": "Rahul Patel",
+          "rating": 5,
+          "review": "The hotel is very good and the staff is very friendly. The food is also very good.",
+          "date": "Date of stay: 2021-01-01",
+          "verified": true
+        },
+        {
+          "reviewerName": "Sara Johnson",
+          "rating": 4,
+          "review": "Great hotel with excellent service. The rooms are spacious and clean. The staff went above and beyond to ensure a comfortable stay. Highly recommended!",
+          "date": "Date of stay: 2021-02-15",
+          "verified": false
+        }
+      ]
+    }
+  },
+  {
+    "hotelCode": 71223,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/465660377/465660377.jpg",
+        "accessibleText": "Courtyard by Marriott Pune"
+      }
+    ],
+    "title": "Courtyard by Marriott Pune Hinjewadi",
+    "subtitle": "500 meters from the Rajiv Gandhi Infotech Park",
+    "benefits": [
+      "Free cancellation",
+      "No prepayment needed – pay at the property",
+      "Free wifi",
+      "Free lunch"
+    ],
+    "price": "25300",
+    "ratings": "4",
+    "city": "pune"
+  }
+]
